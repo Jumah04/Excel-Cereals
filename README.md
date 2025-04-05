@@ -15,7 +15,6 @@ Manufacturer Comparison: Pivot data by manufacturer to analyze average health sc
 
 💡 Key Insights:
 Health scores show a clear trend—healthier cereals tend to receive higher ratings
-
 Among all variables, sugar content had the strongest negative correlation with rating—lower sugar = better rating
 Nabisco ranks highest in average cereal rating and also scores well on health
 Kellogg’s has 6 cereals in the top 20 healthiest, but their average rating is pulled down by the sheer volume of products
